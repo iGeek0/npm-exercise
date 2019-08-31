@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo node js de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGeek0/npm-exercise.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "iGeek0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iGeek0/npm-exercise/issues"
+  },
+  "homepage": "https://github.com/iGeek0/npm-exercise#readme"
+}
