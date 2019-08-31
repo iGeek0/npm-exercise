@@ -1,5 +1,5 @@
 /*jshint esversion: 6 */
-module.export = {
+module.exports = {
     hola: function() {
         console.log('Hola mundo!!');
     },
